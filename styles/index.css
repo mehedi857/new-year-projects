@@ -1,0 +1,32 @@
+
+.open-sans-normal{
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
+
+div p{
+    text-align: end;
+    margin: 140px;
+    
+}
+
+  
+
+
+
+
+
+.img{
+    height: 700px;
+    background-repeat: no-repeat;
+    background-image: url("../styles/images/banner/banner2.png");
+    background-size: 100%;
+    background-position: 
+}
+
