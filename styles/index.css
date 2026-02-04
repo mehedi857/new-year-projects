@@ -28,6 +28,17 @@ div p{
     margin-top: 50px ;
 }
 
+.button{
+    background-color: #F15B22 ; 
+   font-weight: bold;
+   color: white;
+   font-size: 20px;
+   padding: 18px 35px;
+   border-radius: 5px;
+   border: none;
+
+}
+
   
 
 
@@ -44,3 +55,30 @@ div p{
     background-position: 1%;
 }
 
+.img2{
+   background-position: center;
+   margin: 10px 200px;
+   justify-content: space-between;
+  margin-top: 1px;
+  justify-content: space-between;
+}
+
+
+
+/div{
+    margin: 10px 200px;
+}
+
+.uli{
+   margin: 1px 120px;
+   text-align:end ;
+   color: red;
+   font-size: large;
+   font-weight: bold;
+
+}
+h3{
+    color: aqua
+    border-radius 10px;
+
+}    
