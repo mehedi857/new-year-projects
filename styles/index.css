@@ -12,8 +12,20 @@
 
 div p{
     text-align: end;
-    margin: 140px;
+    /* margin: 140px; */
+    margin: 10px; 
     
+    
+}
+.lorem{
+    margin: 1px 120px;
+    margin-top: 100px;
+}
+
+
+.lorem2{
+    margin: 1px 120px;
+    margin-top: 50px ;
 }
 
   
@@ -26,7 +38,9 @@ div p{
     height: 700px;
     background-repeat: no-repeat;
     background-image: url("../styles/images/banner/banner2.png");
-    background-size: 100%;
-    background-position: 
+    /* background-size: 100%;
+    background-position:  */
+    /* background-size: 1500px; */
+    background-position: 1%;
 }
 
